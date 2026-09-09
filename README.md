@@ -1,5 +1,8 @@
 # AI Lab Helm Charts
 
+> [!WARNING]
+> This repository has been retired and will no longer be maintained. It has been moved to [redhat-developer/rhdh-ai-template](https://github.com/redhat-developer/rhdh-ai-template).
+
 This project is a collection of helm charts, insipired by the [AI Software Templates](https://github.com/redhat-ai-dev/ai-lab-template).
 
 ## Gitops
